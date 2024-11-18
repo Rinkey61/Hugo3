@@ -28,15 +28,21 @@ profiles:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/Rinkey61
-  - icon: brands/facebook
-    url: https://www.facebook.com/meherunnesarinkey89?mibextid=ZbWKwL
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/
+  - icon: brands/instagram
+    url: https://www.instagram.com/
 
 education:
-  - area: Computer Science and Engineering
-    institution: Jahangirnagar University
-    date_start: 2022-09-03
-    date_end: Present
-    
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
