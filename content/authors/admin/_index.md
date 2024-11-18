@@ -36,17 +36,15 @@ education:
     institution: Jahangirnagar University
     date_start: 2022-09-03
     date_end: Present
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.6/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Data Structures and Algorithms
+      - Computer Graphics
+      - Computational Geometry
+      - Web Design and Development
+      - Operating System
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
