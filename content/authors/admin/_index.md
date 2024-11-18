@@ -36,7 +36,8 @@ education:
     institution: Jahangirnagar University
     date_start: 2022-09-03
     date_end: Present
-  
+    summary: |
+      This was an wonderful journey till now.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
