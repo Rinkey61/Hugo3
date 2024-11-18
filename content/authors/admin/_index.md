@@ -6,8 +6,8 @@ title: Meheronnesa Rinkey
 name_pronunciation: Meheronnesa Rinkey
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Meheronnesa
+last_name: Rinkey
 
 # Status emoji
 status:
