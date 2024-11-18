@@ -19,21 +19,15 @@ superuser: true
 # Role/position/tagline
 role: student
 
-# Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: GenCoin
-    url: https://www.example.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:meherunnesarinkey6143@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Rinkey61
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: brands/instagram
