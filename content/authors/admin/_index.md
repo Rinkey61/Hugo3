@@ -32,12 +32,10 @@ profiles:
     url: https://www.facebook.com/meherunnesarinkey89?mibextid=ZbWKwL
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+  - area: Computer Science and Engineering
+    institution: Jahangirnagar University
+    date_start: 2022-09-03
+    date_end: Present
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
