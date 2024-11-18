@@ -28,8 +28,6 @@ profiles:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/Rinkey61
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
   - icon: brands/instagram
     url: https://www.instagram.com/
 
