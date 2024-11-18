@@ -37,7 +37,7 @@ education:
     date_start: 2022-09-03
     date_end: Present
     summary: |
-      This was an wonderful journey till now.
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
